@@ -1,6 +1,5 @@
 {
-  "userId": 1,
   "id": 1,
-  "title": "delectus aut autem",
+  "title": [1, 2, 3],
   "completed": false
 }
