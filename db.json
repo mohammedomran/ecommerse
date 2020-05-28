@@ -1,9 +1,9 @@
 {
-  "posts": [
+  "stock": [
     { "id": 1, "title": "json-server", "author": "typicode" }
   ],
-  "comments": [
+  "reviews": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
-  "profile": { "name": "typicode" }
+  "users": [{"name":"Ali", "mobile":"01068752697"},  {"name":"Mohammed", "mobile":"01102870853"}]
 }
