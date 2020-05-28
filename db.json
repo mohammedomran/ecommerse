@@ -2,8 +2,6 @@
   "stock": [
     { "id": 1, "title": "json-server", "author": "typicode" }
   ],
-  "reviews": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "users": [{"name":"Ali", "mobile":"01068752697"},  {"name":"Mohammed", "mobile":"01102870853"}]
+  "reviews": [{"userId":"1", "review":"cool"}, {"userId":"2", "review":"bad"}],
+  "users": [{"id":"1", "name":"Ali", "mobile":"01068752697"},  {"id":"2", "name":"Mohammed", "mobile":"01102870853"}]
 }
