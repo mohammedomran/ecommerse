@@ -1,6 +1,6 @@
 {
   "stock": [
-    { "shoes": [{"name":"adidas shoes"}, {"name":"nike shoes"}], "pants": [{"name":"adidas pant"}, {"name":"pant 55"}] }
+    "shoes": [{"name":"adidas shoes"}, {"name":"nike shoes"}], "pants": [{"name":"adidas pant"}, {"name":"pant 55"}]
   ],
   "reviews": [{"userId":"1", "review":"cool"}, {"userId":"2", "review":"bad"}],
   "users": [{"id":"1", "name":"Ali", "mobile":"01068752697"},  {"id":"2", "name":"Mohammed", "mobile":"01102870853"}]
