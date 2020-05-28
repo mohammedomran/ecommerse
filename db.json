@@ -1,9 +1,86 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+	"category":"shoes",
+	"products":[
+		{
+			"id":"sho7775465446545",
+			"name":"Adidas 45",
+			"price":50,
+			"src":"images/products/shoes1/shoes1.png",
+			"brand":"nike",
+			"color":"red"
+		},
+		{
+			"id":"bike5465487",
+			"name":"shoes 5",
+			"price":500,
+			"src":"images/products/shoes1/shoes1.png",
+			"brand":"nike",
+			"color":"blue"
+		},
+		{
+			"id":"bal54654543",
+			"name":"shoes 45",
+			"price":15,
+			"src":"images/products/shoes1/shoes1.png",
+			"brand":"nike",
+			"color":"white"
+		}
+	]
+		},{
+		"category":"bikes",
+		"products":[
+		{
+		"id":"shoes1546545",
+		"name":"bike 45",
+		"price":50,
+		"src":"images/products/shoes1/shoes1.png",
+		"brand":"adidas",
+		"color":"blue"
+		},
+		{
+		"id":"bike87987",
+		"name":"bike 5",
+		"price":500,
+		"src":"images/products/shoes1/shoes1.png",
+		"brand":"adidas",
+		"color":"brown"
+		},
+		{
+		"id":"ball543543",
+		"name":"bike 45",
+		"price":15,
+		"src":"images/products/shoes1/shoes1.png",
+		"brand":"adidas",
+		"color":"blue"
+		}
+		]
+		},{
+		"category":"balls",
+		"products":[
+		{
+		"id":"shoes54466545",
+		"name":"ball 45",
+		"price":50,
+		"src":"images/products/shoes1/shoes1.png",
+		"brand":"adidas",
+		"color":"black"
+		},
+		{
+		"id":"bike8793587",
+		"name":"ball 5",
+		"price":500,
+		"src":"images/products/shoes1/shoes1.png",
+		"brand":"adidas",
+		"color":"yellow"
+		},
+		{
+		"id":"ball5438543",
+		"name":"ball 45",
+		"price":15,
+		"src":"images/products/shoes1/shoes1.png",
+		"brand":"adidas",
+		"color":"gray"
+		}
+		]
 }
+]
