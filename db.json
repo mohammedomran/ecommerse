@@ -1,5 +1,4 @@
 {
-	
 	"products":[
 		{
 			"id":"sho7775465446545",
@@ -26,61 +25,4 @@
 			"color":"white"
 		}
 	]
-		},{
-		
-		"products":[
-		{
-		"id":"shoes1546545",
-		"name":"bike 45",
-		"price":50,
-		"src":"images/products/shoes1/shoes1.png",
-		"brand":"adidas",
-		"color":"blue"
-		},
-		{
-		"id":"bike87987",
-		"name":"bike 5",
-		"price":500,
-		"src":"images/products/shoes1/shoes1.png",
-		"brand":"adidas",
-		"color":"brown"
-		},
-		{
-		"id":"ball543543",
-		"name":"bike 45",
-		"price":15,
-		"src":"images/products/shoes1/shoes1.png",
-		"brand":"adidas",
-		"color":"blue"
-		}
-		]
-		},{
-		
-		"products":[
-		{
-		"id":"shoes54466545",
-		"name":"ball 45",
-		"price":50,
-		"src":"images/products/shoes1/shoes1.png",
-		"brand":"adidas",
-		"color":"black"
-		},
-		{
-		"id":"bike8793587",
-		"name":"ball 5",
-		"price":500,
-		"src":"images/products/shoes1/shoes1.png",
-		"brand":"adidas",
-		"color":"yellow"
-		},
-		{
-		"id":"ball5438543",
-		"name":"ball 45",
-		"price":15,
-		"src":"images/products/shoes1/shoes1.png",
-		"brand":"adidas",
-		"color":"gray"
-		}
-		]
 }
-]
