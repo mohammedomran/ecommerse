@@ -1,6 +1,6 @@
 {
   "stock": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+    { "category": "shoes", "productss": [{"name":"adidas shoes"}, {"name":"adidas shoes"}] }
   ],
   "reviews": [{"userId":"1", "review":"cool"}, {"userId":"2", "review":"bad"}],
   "users": [{"id":"1", "name":"Ali", "mobile":"01068752697"},  {"id":"2", "name":"Mohammed", "mobile":"01102870853"}]
